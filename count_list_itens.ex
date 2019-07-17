@@ -11,3 +11,4 @@ end
 
 # IO.puts MyList.len([1,2,3,4,5,6,7,8,9])
 IO.puts MyList.square([1,2,3])
+IO.puts MyList.sum([1,2,3])
